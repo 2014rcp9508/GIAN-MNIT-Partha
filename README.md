@@ -1,1 +1,0 @@
-# GIAN-MNIT-Partha
