@@ -1,0 +1,16 @@
+
+
+GIAN-MNIT-Partha
+https://github.com/2014rcp9508/GIAN-MNIT-Partha
+
+
+
+Download few Softwares by clicking below links-
+
+
+
+VM Box:-
+http://download.virtualbox.org/virtualbox/5.1.10/VirtualBox-5.1.10-112026-Win.exe
+
+Ubuntu:-
+http://old-releases.ubuntu.com/releases/10.04.0/ubuntu-10.04.4-desktop-i386.iso
